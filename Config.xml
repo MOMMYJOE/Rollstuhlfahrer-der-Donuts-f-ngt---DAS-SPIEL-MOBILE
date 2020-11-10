@@ -1,0 +1,22 @@
+?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "Rollstuhlfahrer.der.Donuts.fängt.DAS.SPIEL.MOBILE"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Rollstuhlfahrer der Donuts fängt - DAS SPIEL MOBILE</name>
+
+  <description>
+      Ein kleines Spiel, gemacht im Informatik Unterricht mit Scratch
+  </description>
+
+  <author href="https://www.youtube.com/channel/UCUxZ_WKubjEolNCte8UxSMw?view_as=subscriber" email="maxlolz1291@gmail.com">
+      Chaes Freak
+  </author>
+
+	<icon src="icon.png" />
+
+</widget>
